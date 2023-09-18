@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(40, 201, 110);
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: 600px;
+    margin-top: 50px;
+    font-size: 45px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.container{
+    margin: 200px;
+    height: 400px;
+    position: relative;
+    left: 280px;
+    
+
+}
+
+.w1{
+
+    font-style: bold;
+    height: 150px;
+    width: 200px;
+    color: white;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+    top:-100px;
+    left: 150px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.w2{
+    height: 150px;
+    width: 220px;
+    color: white;
+    margin-inline-start: 10px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    top: -100px;
+    right: 120px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.icon{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.line{
+    display: inline-block;
+    width: 200px;
+    font-weight: bold;
+}
